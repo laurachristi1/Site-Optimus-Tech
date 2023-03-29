@@ -1,0 +1,44 @@
+  .resultados{
+    display: flex;
+    padding: 0px 112px 120px 112px;
+    padding-left: 13%;
+    gap: 48px;
+    align-self: stretch;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+  }
+
+  .info{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .informacaoSpan{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    flex: none;
+    color: #8E2424;
+  }
+
+
+  .informacoesEmpresa{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 13px;
+    margin-bottom: 8px;
+    color: #101828;
+  }
+
+  .info__resultados{
+    align-self: stretch;
+    width: 280px;
+    height: 48px;
+    font-style: normal;
+    font-size: 16px;
+    color: #667085;
+  }

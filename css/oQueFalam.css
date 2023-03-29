@@ -1,0 +1,75 @@
+.oQueFalam{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 96px;
+}
+
+.elesFalam{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 1216px;
+    height: 404px;
+    background: rgba(196, 25, 25, 0.03);
+    border-radius: 16px;
+    margin-bottom: 96px;
+}
+
+.info__empresa{
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+    color: #8E2424;
+    height: 0px;
+}
+
+.seImportam{
+    font-weight: bold;
+    font-size: 36px;
+    height: 64px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    color: #101828;
+}
+
+.imgPerfil{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+
+    width: 56px;
+    height: 56px;
+    border-radius: 200px;
+}
+
+.nomePerfil{
+    
+    width: 1088px;
+    height: 24px;
+
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #101828;
+}
+
+.profissaoPerfil{
+
+    width: 1088px;
+    height: 20px;
+
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #667085;
+}
+
+
+

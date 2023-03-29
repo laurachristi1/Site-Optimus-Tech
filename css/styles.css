@@ -1,0 +1,17 @@
+@import 'nav.css';
+@import 'quemSaoEles.css';
+@import 'resultados.css';
+@import 'sobreAsVagas.css';
+@import 'cargoParaAsvagas.css';
+@import 'oQueFalam.css';
+@import 'footer.css';
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap');
+
+
+body{
+    font-family: 'inter';
+    
+}
+
+

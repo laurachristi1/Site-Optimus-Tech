@@ -1,0 +1,47 @@
+.vagas{
+    display: flex;
+    padding: 0px 32px;
+    gap: 3px;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 0px;
+}
+
+.abertas{
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+    color: #8E2424;
+    padding: 4px 12px;
+    background: rgba(142, 36, 36, 0.05);
+    border-radius: 16px;
+}
+
+.procurando{
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    height: 20px;
+    width: 800px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    color: #101828;
+}
+
+.equipe{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #667085;
+}
+
+
+.reuniao{  
+    padding: 55px 55px;
+    justify-content: center;
+    align-items: center;
+    /* imagem reunião */
+}
